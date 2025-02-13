@@ -1,0 +1,26 @@
+
+        body, html {
+            margin: 0;
+            padding: 0;
+            height: 100%;
+        }
+        .part1 {
+            height: 20%;
+            width: 100%;
+            background-color: lightblue;
+        }
+        .container {
+            display: flex;
+            height: 80%;
+        }
+        .part2, .part3 {
+            height: 100%;
+            width: 50%;
+        }
+
+        .part2 {
+            background-color: lightcoral;
+        }
+        .part3 {
+            background-color: lightgreen;
+        }
